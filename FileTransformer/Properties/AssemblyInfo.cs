@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("FileTransformer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Michael Yochpaz")]
+[assembly: AssemblyCompany("DigiGleeTech")]
 [assembly: AssemblyProduct("FileTransformer")]
-[assembly: AssemblyCopyright("Michael Yochpaz © 2021")]
+[assembly: AssemblyCopyright("DigiGleeTech © 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

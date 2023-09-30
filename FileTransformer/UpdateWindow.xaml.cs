@@ -28,7 +28,7 @@ namespace FileTransformerNS
 
         private void download_button_Click(object sender, RoutedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/MichaelYochpaz/FileTransformer/releases/latest");
+            System.Diagnostics.Process.Start("https://github.com/DigiGleeTech/FileTransformer/releases/latest");
         }
     }
 }

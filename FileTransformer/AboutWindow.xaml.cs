@@ -22,7 +22,7 @@ namespace FileTransformerNS
 
         private void GitHub_grid_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            process.StartInfo.FileName = "https://github.com/MichaelYochpaz/FileTransformer";
+            process.StartInfo.FileName = "https://github.com/DigiGleeTech/FileTransformer";
             process.Start();
         }
 
